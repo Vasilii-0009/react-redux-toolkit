@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.e5be669b.css","mappings":"AAAA,kCACE,4BACF","sources":["components/App.css"],"sourcesContent":["input[type=\"checkbox\"]:checked + span {\n  text-decoration: line-through;\n}\n"],"names":[],"sourceRoot":""}
